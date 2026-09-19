@@ -1,0 +1,5 @@
+fastmcp
+groq
+requests
+python-dotenv
+json2pdf_converter
